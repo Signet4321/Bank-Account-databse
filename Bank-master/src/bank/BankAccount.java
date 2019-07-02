@@ -54,7 +54,7 @@ public class BankAccount
         panel.add (depositAmount);
         depositButton.addActionListener(this);
         panel.setPreferredSize(new Dimension(600,200));
-        panel.setBackground(Color.WHITE);
+        panel.setBackground(Color.blue);
         return panel;
      }
 
